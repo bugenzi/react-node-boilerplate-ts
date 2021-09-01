@@ -2,9 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const App = () => {
-const test="hallo";
-const test2="test"
- return ( <h1>My React and TypeSdasdasdcrsipt App!{test}{test2}</h1>)
+
+ return ( <h1>React and node boilerplate using ts </h1>)
 };
 
 ReactDOM.render(
