@@ -8,7 +8,8 @@
     "server": "nodemon --config nodemon.config.json",
     "build-client": "webpack --config webpack.prod.config.ts",
     "build-server": "tsc -b www/server",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint \"**/*.{ts,tsx}\""
   },
   "author": "",
   "license": "ISC",
