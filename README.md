@@ -1,7 +1,8 @@
 # Boilerplate 
 ## To run
 
-* ```npm client``` **To run the react server**
-* ```npm server``` **To run the node server**
-* ```npm build``` **Babel compile of the buil saved it build folder**
-* ```npm test```  **Jest TDD**
+* ```npm run client``` **To run the react server**
+* ```npm run server``` **To run the node server**
+* ```npm run build``` **Babel compile of the buil saved it build folder**
+* ```npm run test```  **Jest TDD**
+* ```npm run lint```  **Manualty lint**
